@@ -67,6 +67,9 @@
   "peerDependencies": {
     "react-native": "^0.0.0-0 || >=0.60 <1.0"
   },
+  "peerDependenciesMeta": {
+    "react-native": {"optional": true}
+  },
   "devDependencies": {
     "@babel/core": "^7.20.0",
     "@babel/preset-env": "^7.20.0",
